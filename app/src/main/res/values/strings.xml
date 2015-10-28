@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListasDinamicas</string>
+
+    <string name="bienvenida">Listas dinamicas</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pais">Pais:</string>
+    <string name="Ciudad">Ciudad:</string>
+</resources>
